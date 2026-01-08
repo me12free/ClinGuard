@@ -26,7 +26,6 @@ Thumbs.db
 
 ## Documentation and guides
 /docs/
-*.md
 *.txt
 ALL_DIAGRAMS_MERMAID_FIXED.md
 DEVELOPMENT.md
